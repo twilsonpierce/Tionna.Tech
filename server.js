@@ -8,7 +8,7 @@ app.use(bodyparser.json())
 app.use(express.static(__dirname))
 
 app.get('/*', (req,res)=>{
-	res.sendFile(path.join(__dirname, '/index.html'))
+	res.sendFile(path.join(__dirname, '/templated-epilogue/index.html'))
 })
 
-app.listen(5555);
+app.listen(3000);

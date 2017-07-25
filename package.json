@@ -17,5 +17,17 @@
   "bugs": {
     "url": "https://github.com/twilsonpierce/test/issues"
   },
-  "homepage": "https://github.com/twilsonpierce/test#readme"
+  "homepage": "https://github.com/twilsonpierce/test#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.17.2",
+    "css-loader": "^0.28.4",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.4.0"
+  }
 }
