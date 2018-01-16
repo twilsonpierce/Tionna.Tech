@@ -1,12 +1,7 @@
 ---
 ### Tionna Wilson-Pierce 
-<div>
-<p t">+1(347)220-7578</p>
-<p>Send Me A Message</p>
-<p>Let's Connect!</p>
-<p>MyCodeSamples</p>
-<p>New York,NY</p>
-</div>
+##### +1(347)220-7578|Send Me A Message|Let's Connect!|Code Samples
+
 
 
 
