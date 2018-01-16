@@ -1,6 +1,6 @@
 
 ### Tionna Wilson-Pierce 
-##### ![image](https://user-images.githubusercontent.com/20372701/34997485-97d8818e-faaa-11e7-9ac8-a69296f5e871.png)1(347)220-7578|![image](https://user-images.githubusercontent.com/20372701/34997544-c3923fcc-faaa-11e7-9c60-b41d64b1afaa.png)<a href="mailto:tionna.wilsonpierce@gmail.com">Send Me A Message</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!</a>|<a href="github.com/twilsonpierce">Code Samples<a/>
+##### ![image](https://user-images.githubusercontent.com/20372701/34997485-97d8818e-faaa-11e7-9ac8-a69296f5e871.png)1(347)220-7578|![image](https://user-images.githubusercontent.com/20372701/34997544-c3923fcc-faaa-11e7-9c60-b41d64b1afaa.png)<a href="mailto:tionna.wilsonpierce@gmail.com">Send Me A Message</a>|![image](https://user-images.githubusercontent.com/20372701/34997715-1a8d6270-faab-11e7-9b4f-9b4c938e2046.png)<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!</a>|![image](https://user-images.githubusercontent.com/20372701/34997747-3858ae72-faab-11e7-907c-7e3cae0b4c6c.png)<a href="github.com/twilsonpierce">Code Samples<a/>
 
 ---
 
