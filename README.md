@@ -1,30 +1,5 @@
 
-### Tionna Wilson-Pierce  
-
-
-### EDUCATION
-
-* __Software Engineering, 
-C4Q(Coalition for Queens),
-Long Island City, NY__
-`2016-2017`
-
-* __Liberal Arts:Math and Science, 
-CUNY LaGuardia Community College,
-Long Island City, NY__
-`2013-2015`
-
-
-### SKILLS 
-
-`Javascript`,`HTML`,`CSS`,`SaSS`
-`React`,`Redux`,`Express`, `Node.js`
-`MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
-`Babel`,`DOM`,`Mocha`,`Chai`
-`Bootstrap`,`Invision`,`Sketch`
-`Microsoft  Office`, `Google Docs/Sheets`
-`Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
-`Team Leadership/Building`, `Project management`,`Public Speaking` 
+# Tionna Wilson-Pierce  
 
 
 ### 	PROJECTS
@@ -41,7 +16,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
 
 * Featured in C4Q’s Annual Gala and Tech Bash
----
+
 
 ###  EXPERIENCE
 
@@ -80,4 +55,26 @@ Developed and designed the profile creation feature for users to start their jou
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
 
-<!-- ### Footer
+### EDUCATION
+
+* __Software Engineering, 
+C4Q(Coalition for Queens),
+Long Island City, NY__
+`2016-2017`
+
+* __Liberal Arts:Math and Science, 
+CUNY LaGuardia Community College,
+Long Island City, NY__
+`2013-2015`
+
+
+### SKILLS 
+
+`Javascript`,`HTML`,`CSS`,`SaSS`
+`React`,`Redux`,`Express`, `Node.js`
+`MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
+`Babel`,`DOM`,`Mocha`,`Chai`
+`Bootstrap`,`Invision`,`Sketch`
+`Microsoft  Office`, `Google Docs/Sheets`
+`Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
+`Team Leadership/Building`, `Project management`,`Public Speaking` 
