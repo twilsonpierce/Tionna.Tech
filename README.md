@@ -4,13 +4,13 @@
 
 ### 	PROJECTS
 
-#### `Wanderly - React,Redux,Express,PostgreSQL`
+#### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
 
 * Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
 Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
 
-#### `Hipstore - React,Redux,Css,Html,Bootstrap`
+#### Hipstore - React,Redux,Css,Html,Bootstrap
 * Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion. 
 
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
@@ -21,7 +21,7 @@ Developed and designed the profile creation feature for users to start their jou
 ###  EXPERIENCE
 
 ### Full-Stack Web Developer 
-###### `C4Q(Coalition for Queens)|July 2016- June 2017` 
+##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
 * Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
 ### Intern
@@ -55,7 +55,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
 
-### EDUCATION
+## EDUCATION
 
 * __Software Engineering, 
 C4Q(Coalition for Queens),
@@ -68,7 +68,7 @@ Long Island City, NY__
 `2013-2015`
 
 
-### SKILLS 
+## SKILLS 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
