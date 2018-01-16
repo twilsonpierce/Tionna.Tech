@@ -1,5 +1,6 @@
+# Tionna Wilson-Pierce
 
-## Tionna Wilson-Pierce
+### <a href="mailto:tionna.wilsonpierce">Email</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">LinkedIn<a/>|<a href="https://github.com/twilsonpierce">Github</a>
 
 
 ### PROJECTS
