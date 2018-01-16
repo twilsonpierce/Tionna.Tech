@@ -55,7 +55,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
 
-## EDUCATION
+### EDUCATION
 
 * __Software Engineering, 
 C4Q(Coalition for Queens),
@@ -68,7 +68,7 @@ Long Island City, NY__
 `2013-2015`
 
 
-## SKILLS 
+### SKILLS 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
