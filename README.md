@@ -1,8 +1,16 @@
+---
+### Tionna Wilson-Pierce 
+<div>
+<p t">+1(347)220-7578</p>
+<p>Send Me A Message</p>
+<p>Let's Connect!</p>
+<p>MyCodeSamples</p>
+<p>New York,NY</p>
+</div>
 
-# Tionna Wilson-Pierce  
 
 
-### 	PROJECTS
+### PROJECTS
 
 #### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
