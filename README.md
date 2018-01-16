@@ -1,8 +1,6 @@
 
-**Tionna Wilson-Pierce**
+**Tionna Wilson-Pierce| NYC **
 
-**NYC** 
-============
 
 -------------------     ----------------------------
 1 MyAddress                        email@example.com
