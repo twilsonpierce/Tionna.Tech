@@ -1,5 +1,6 @@
 # Tionna Wilson Pierce
-### Software Developer Based in NYC|<a href="mailto:tionna.wilsonpierce">Email</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!<a/>|<a href="https://github.com/twilsonpierce">Github</a>
+### Software Developer Based in NYC
+### <a href="mailto:tionna.wilsonpierce">Email</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!<a/>|<a href="https://github.com/twilsonpierce">Github</a>
   
 
   
