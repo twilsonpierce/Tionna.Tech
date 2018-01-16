@@ -1,6 +1,6 @@
 
 ### Tionna Wilson-Pierce 
-##### +1(347)220-7578|Send Me A Message|Let's Connect!|Code Samples
+##### ![image](https://user-images.githubusercontent.com/20372701/34997485-97d8818e-faaa-11e7-9ac8-a69296f5e871.png)1(347)220-7578|![image](https://user-images.githubusercontent.com/20372701/34997544-c3923fcc-faaa-11e7-9c60-b41d64b1afaa.png)<a href="mailto:tionna.wilsonpierce@gmail.com">Send Me A Message</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!</a>|<a href="github.com/twilsonpierce">Code Samples<a/>
 
 ---
 
