@@ -4,13 +4,13 @@
 
 ### 	PROJECTS
 
-### `Wanderly - React,Redux,Express,PostgreSQL`
+#### `Wanderly - React,Redux,Express,PostgreSQL`
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
 
 * Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
 Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
 
-### `Hipstore - React,Redux,Css,Html,Bootstrap`
+#### `Hipstore - React,Redux,Css,Html,Bootstrap`
 * Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion. 
 
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
