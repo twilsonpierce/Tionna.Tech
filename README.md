@@ -1,12 +1,19 @@
-# Tionna Wilson Pierce
-### Software Developer Based in NYC
-### <a href="mailto:tionna.wilsonpierce">Email</a>|<a href="https://www.linkedin.com/in/tionnawilsonpierce">Let's Connect!<a/>|<a href="https://github.com/twilsonpierce">Github</a>
-  
+# Tionna Wilson-Pierce: Software Developer x Blogger 
 
-  
+## Quick Links 
+* [About Me](#about-me)
+* [Project Highlights](#projects)
+* [Work Experience](#work-experience)
+* [Education](#education)
+* [Community Impact](#community-impact)
+* [Social Media](#social-media) 
+* [Contact Info](#contact-info)  
 
 
-### PROJECTS
+## About Me <a id ="about-me"></a>
+
+
+## Project Highlights <a id ="projects"></a>
 
 #### Wanderly - React,Redux,Express,PostgreSQL
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
@@ -21,8 +28,7 @@ Developed and designed the profile creation feature for users to start their jou
 
 * Featured in C4Q’s Annual Gala and Tech Bash
 
-
-###  EXPERIENCE
+## Work Experience <a id ="work-experience"></a>
 
 ### Full-Stack Web Developer 
 ##### `C4Q(Coalition for Queens)|July 2016- June 2017` 
@@ -58,21 +64,7 @@ Developed and designed the profile creation feature for users to start their jou
 ##### `Eastside Toastmasters Club|October 2014 - Present `
 * Delivered prepared speeches, mentored new club members in our public speaking and leadership program while serving as the VP of Public Relations. 
 
-
-### EDUCATION
-
-* __Software Engineering, 
-C4Q(Coalition for Queens),
-Long Island City, NY__
-`2016-2017`
-
-* __Liberal Arts:Math and Science, 
-CUNY LaGuardia Community College,
-Long Island City, NY__
-`2013-2015`
-
-
-### SKILLS 
+### SKILLS
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
@@ -82,3 +74,26 @@ Long Island City, NY__
 `Microsoft  Office`, `Google Docs/Sheets`
 `Greenhouse.io`, `Trello`, `Slack`, `MailChimp`
 `Team Leadership/Building`, `Project management`,`Public Speaking` 
+
+
+## Education <a id ="education"></a>
+
+### 2016-2017
+* **Full-Stack Web Development Fellowship ,** [C4Q(Coalition For Queens)](https://www.c4q.nyc/)
+
+### 2013-2015
+*  **A.S. in Liberal Arts:Math & Science ,** [CUNY LaGuardia Community College](https://www.laguardia.edu/home/Default.aspx)
+
+
+## Community Impact <a id ="community-impact"></a>
+
+## Social Media <a id ="social-media"></a>
+* **LinkedIn:**  [linkedin.com/in/tionnawilsonpierce](https://www.linkedin.com/in/tionnawilsonpierce)
+* **Github:**    [github.com/twilsonpierce](https://github.com/twilsonpierce)
+* **Twitter:**   [twitter.com/_shedoesitall](https://twitter.com/_shedoesitall)
+
+
+## Contact Info <a id ="contact-info"></a>
+* **Phone:**  347-220-7578
+* **Email:**  [twilsonpierce@gmail.com](twilsonpierce@gmail.com)
+
