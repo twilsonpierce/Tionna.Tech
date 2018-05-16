@@ -87,11 +87,11 @@ Developed and designed the profile creation feature for users to start their jou
 
 ## Community Impact <a id ="community-impact"></a>
  
-* Tech Blogger, **[BTW(Black Tech Women)](http://blacktechwomen.strikingly.com/), Decemeber 2017**
+* Tech Blogger, **[BTW(Black Tech Women)](https://medium.com/@BlackTechWomen/the-glow-up-advancing-to-senior-leadership-2b7966f0759e), Decemeber 2017**
 * Volunteer/Organizer, **[Adobe 99U Conference](https://conference.99u.com/), May 2017**
 * Twilio SIGNAL Developer Scholar, **[Twilio](https://signal.twilio.com/), May 2017**
 * Volunteer/Mentor, **[BGC(Black Girls Code)](http://www.blackgirlscode.com/), April 2017**
-* Tech Blogger, **[BTW(Black Tech Women)](http://blacktechwomen.strikingly.com/), April 2017**
+* Tech Blogger, **[BTW(Black Tech Women)](https://medium.com/@BlackTechWomen/changing-the-face-of-technology-highlights-from-signal-333e686e2e98), April 2017**
 * Tech Lead, **[My Social Canvas](http://mysocialcanvas.com/designhackathon/), October 2016**
 
 
