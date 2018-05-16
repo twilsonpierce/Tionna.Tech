@@ -15,18 +15,23 @@
 
 ## Project Highlights <a id ="projects"></a>
 
-#### Wanderly - React,Redux,Express,PostgreSQL
+#### Wanderly,[C4Q](https://www.c4q.nyc/) - Javascript, React,Redux,Express,PostgreSQL 
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
 
 * Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
 Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
 
-#### Hipstore - React,Redux,Css,Html,Bootstrap
-* Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion. 
+#### Hipstore,[C4Q](https://www.c4q.nyc/) - Javascript,React,Redux,CSS,HTML,Bootstrap
+* Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion.
 
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
 
 * Featured in C4Q’s Annual Gala and Tech Bash
+
+
+#### DejaMuse,[FlawlessHacks](http://flawlesshacks.com/)- Javascript,React,HTML,CSS,Sketch
+ * Collaborated on a team with four women as the front-end engineer to create a timestamp of songs that users play on a specific day. After collecting enough songs overtime, it would create a timehop of music that users will be able to create a playlist out of it.
+ * Worked closely with the UX designer transforming their design into a functional front-end application using Javascript,React,HTML and CSS. 
 
 ## Work Experience <a id ="work-experience"></a>
 
@@ -59,7 +64,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Served as the VP of Public Relations, developed publicity strategies and campaigns using social media to increase the members within our community.
 * Delivered prepared speeches and mentored new club members in our public speaking/ leadership program.
 
-### SKILLS
+## Skills 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
 `React`,`Redux`,`Express`, `Node.js`
@@ -81,6 +86,14 @@ Developed and designed the profile creation feature for users to start their jou
 
 
 ## Community Impact <a id ="community-impact"></a>
+ 
+* Tech Blogger, **[BTW(Black Tech Women)](http://blacktechwomen.strikingly.com/), Decemeber 2017**
+* Volunteer/Organizer, **[Adobe 99U Conference](https://conference.99u.com/), May 2017**
+* Twilio SIGNAL Developer Scholar, **[Twilio](https://signal.twilio.com/), May 2017**
+* Volunteer/Mentor, **[BGC(Black Girls Code)](http://www.blackgirlscode.com/), April 2017**
+* Tech Blogger, **[BTW(Black Tech Women)](http://blacktechwomen.strikingly.com/), April 2017**
+* Tech Lead, **[My Social Canvas](http://mysocialcanvas.com/designhackathon/), October 2016**
+
 
 ## Social Media <a id ="social-media"></a>
 * **LinkedIn:**  [linkedin.com/in/tionnawilsonpierce](https://www.linkedin.com/in/tionnawilsonpierce)
