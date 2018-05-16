@@ -12,6 +12,10 @@
 
 ## About Me <a id ="about-me"></a>
 
+Hey There! 
+
+My name is Tionna, I am currently a Software Engineer and Blogger based in New York City. I love everything from Technology to Design. I feel responsible for taking my skills and passion for technology and the desire to make a social impact to help create a change in the world. 
+
 
 ## Project Highlights <a id ="projects"></a>
 
