@@ -14,7 +14,7 @@
 
 Hey There! 
 
-My name is Tionna, I am currently a Software Engineer and Blogger based in New York City. I love everything from Technology to Design. I feel responsible for taking my skills and passion for technology and the desire to make a social impact to help create a change in the world. 
+My name is Tionna Wilson-Pierce, I am currently a Software Engineer and Blogger based in New York City. I love everything from Technology to Design and making an impact in my community. I always believed that if something does not challenge you, it will not change you. 
 
 
 ## Project Highlights <a id ="projects"></a>
