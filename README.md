@@ -39,6 +39,10 @@ Developed and designed the profile creation feature for users to start their jou
 
 ## Work Experience <a id ="work-experience"></a>
 
+#### Lead Instructor,[GWC(Girls Who Code)](https://girlswhocode.com/)|June 2018- August 2018 
+* Lead the first GWC-Summer Immmersion Program at KPMG.A classroom of 20 diverse high school girls who I taught the fundamentals of programming languages such as **Python** **Javascript**, **HTML**, **CSS** as well as introducing topics like **Robotics** and **Data Science**.
+* Collaborate with sponsors and tech leaders at KPMG during the program to organize program activities including guest speakers, partner visits, field trips and on-site learning opportunities.
+
 #### Full-Stack Web Developer,[C4Q(Coalition For Queens)](https://www.c4q.nyc/)|July 2016- June 2017 
 * Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
@@ -71,7 +75,7 @@ Developed and designed the profile creation feature for users to start their jou
 ## Skills 
 
 `Javascript`,`HTML`,`CSS`,`SaSS`
-`React`,`Redux`,`Express`, `Node.js`
+`React`,`Redux`,`Express`, `Node.js`, `Python`,
 `MongoDB`,`PostgresSQL`,`GIT`,`Webpack`
 `Babel`,`DOM`,`Mocha`,`Chai`
 `Bootstrap`,`Invision`,`Sketch`
