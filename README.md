@@ -1,20 +1,12 @@
 # Tionna Wilson-Pierce: Software Developer x Blogger 
 
 ## Quick Links 
-* [About Me](#about-me)
 * [Project Highlights](#projects)
 * [Work Experience](#work-experience)
 * [Education](#education)
 * [Community Impact](#community-impact)
 * [Social Media](#social-media) 
 * [Contact Info](#contact-info)  
-
-
-## About Me <a id ="about-me"></a>
-
-Hey There! 
-
-My name is Tionna Wilson-Pierce, I am currently a Software Engineer and Blogger based in New York City. I love everything from Technology to Design and making an impact in my community. I always believed that if something does not challenge you, it will not change you. 
 
 
 ## Project Highlights <a id ="projects"></a>
