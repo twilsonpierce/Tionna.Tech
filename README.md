@@ -11,13 +11,14 @@
 
 ## Project Highlights <a id ="projects"></a>
 
-#### Wanderly,[C4Q](https://www.c4q.nyc/) - Javascript, React,Redux,Express,PostgreSQL 
+#### Wanderly,[C4Q](https://www.c4q.nyc/), [Preview](https://github.com/twilsonpierce/Wanderly) - Javascript, React,Redux,Express,PostgreSQL 
+
 * Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
 
 * Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
 Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
 
-#### Hipstore,[C4Q](https://www.c4q.nyc/) - Javascript,React,Redux,CSS,HTML,Bootstrap
+#### Hipstore,[C4Q](https://www.c4q.nyc/), [Preview](https://github.com/twilsonpierce/Hipstore) - Javascript,React,Redux,CSS,HTML,Bootstrap
 * Collaborated on a team of four to develop an e-commerce website that allows users to shop and explore the latest trends in fashion.
 
 * Developed a data repository to hold the product information to improve the user experience and help control the number of items that were displayed on the category page. 
@@ -25,7 +26,7 @@ Developed and designed the profile creation feature for users to start their jou
 * Featured in C4Q’s Annual Gala and Tech Bash
 
 
-#### DejaMuse,[FlawlessHacks](http://flawlesshacks.com/)- Javascript,React,HTML,CSS,Sketch
+#### DejaMuse,[FlawlessHacks](http://flawlesshacks.com/), [Preview](https://github.com/twilsonpierce/Hipstore)- Javascript,React,HTML,CSS,Sketch
  * Collaborated on a team with four women as the front-end engineer to create a timestamp of songs that users play on a specific day. After collecting enough songs overtime, it would create a timehop of music that users will be able to create a playlist out of it.
  * Worked closely with the UX designer transforming their design into a functional front-end application using Javascript,React,HTML and CSS. 
 
@@ -38,7 +39,8 @@ Developed and designed the profile creation feature for users to start their jou
 * Successfully, all 20 students graduated from the Girls Who Code program.
 
 #### Full-Stack Web Developer,[C4Q(Coalition For Queens)](https://www.c4q.nyc/)|July 2016- June 2017 
-* Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate and collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
+* Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate. 
+* Collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
 #### Intern,[C4Q(Coalition For Queens)](https://www.c4q.nyc/)|January 2017- August 2017
 * Assisted the the Founder & CEO independently with the operations and procedures to ensure the continued growth of our tech non-profit organization.
