@@ -1,4 +1,4 @@
-# Tionna Wilson-Pierce: Software Developer x Blogger 
+# Tionna Wilson-Pierce: Software Developer
 
 ## Quick Links 
 * [Project Highlights](#projects)
