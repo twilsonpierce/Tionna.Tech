@@ -28,8 +28,8 @@ The Badass Coder is a podcast series that highlights the stories of amazing wome
 #### Software Engineer,[Blavity Inc](https://blavityinc.com/)| November 2018 - Present 
 
 * Work closely with the product and design team to help take successful prototypes into a fully and functional product.
-* Develop and design the user experience for these following branded sites(TravelNoire, AfroTech, Blavity,) by using Vue.js, Vuex, Nuxt.js, JavaScript, Sass on the Front-End and Node, Express on the Back-End. 
-* Developed our team's first engineering blog by using JavaScript, HTML and CSS. 
+* Develop and design the user experience for these following branded sites(TravelNoire, AfroTech, Blavity,) by using **Vue**, **Vuex**, **Nuxt.js**, **JavaScript**, **Sass** on the Front-End and **Node**, **Express** on the Back-End. 
+* Developed our team's first engineering blog by using **JavaScript**, **HTML** and **CSS**. 
 
 
 #### Head CS Instructor,[GWC(Girls Who Code)](https://girlswhocode.com/)| June 2018- August 2018 
