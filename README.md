@@ -11,21 +11,17 @@
 
 ## Project Highlights <a id ="projects"></a>
 
-#### BlavityATL, - Javascript,HTML,CSS. 
+#### BlavityATL,[BlavityATL](#) - Javascript,HTML,CSS. 
 
 An engineering blog that was created to highlight the **voices**, **ideas** and **creativity** of individual contributors here at Blavity Inc. This is where innovation meets culture. 
 
 * Leading the engineering team by developing new and creative content that will focus on how we are building the latest  technologies for our existing products but the Blavity way. 
-
 * Officially launching our blog in November of 2019. 
 
-#### Wanderly,[C4Q](https://www.c4q.nyc/), [Preview](https://github.com/twilsonpierce/Wanderly) - Javascript, React,Redux,Express,PostgreSQL 
+#### The Badass Coder,[TBC Podcast Signup ](https://thebadasscoder.us/), [Preview](https://github.com/twilsonpierce/twilsonpierce.github.io) - Javascript, React,HTML, CSS, Gatsby.JS 
 
-* Collaborated on a team of four to develop a traveling web app that allows users to share their itineraries and experiences with other travelers. 
-
-* Troubleshooted the behavior of the uploading feature by using Formidable middleware to upload the image files. 
-Developed and designed the profile creation feature for users to start their journeys around Wanderly. The profile assisted users in keeping track of both their expenses and experiences.
-
+The Badass Coder is a podcast series that highlights the stories of amazing women who is currently making their mark in tech.
+* Built and designed the signup page where users can enter their email address to keep themselves updated with all of the latest episodes. This was done using **React**, **JavaScript**, **HTML**, **CSS** and **Gatsby**. 
 
 ## Work Experience <a id ="work-experience"></a>
 
