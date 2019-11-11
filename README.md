@@ -20,7 +20,8 @@ An engineering blog that was created to highlight the **voices**, **ideas** and 
 
 #### The Badass Coder, [TBC Podcast Signup ](https://thebadasscoder.us/), [Preview](https://github.com/twilsonpierce/twilsonpierce.github.io) - Javascript, React,HTML, CSS, Gatsby.JS 
 
-The Badass Coder is a podcast series that highlights the stories of amazing women who is currently making their mark in tech.
+The Badass Coder is a podcast series that highlights the stories of amazing women who is currently making their mark in tech. Now hosted on Apple and Spotify. 
+
 * Built and designed the signup page where users can enter their email address to keep themselves updated with all of the latest episodes. This was done using **React**, **JavaScript**, **HTML**, **CSS** and **Gatsby**. 
 
 ## Work Experience <a id ="work-experience"></a>
