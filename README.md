@@ -11,14 +11,14 @@
 
 ## Project Highlights <a id ="projects"></a>
 
-#### BlavityATL, [BlavityATL](#) - Javascript,HTML,CSS. 
+#### BlavityATL, [Coming Soon](#) - Javascript,HTML,CSS. 
 
 An engineering blog that was created to highlight the **voices**, **ideas** and **creativity** of individual contributors here at Blavity Inc. This is where innovation meets culture. 
 
 * Leading the engineering team by developing new and creative content that will focus on how we are building the latest  technologies for our existing products but the Blavity way. 
-* Officially launching our blog in November of 2019. 
+* Officially launching our blog late-November of 2019. 
 
-#### The Badass Coder, [TBC Podcast Signup ](https://thebadasscoder.us/), [Preview](https://github.com/twilsonpierce/twilsonpierce.github.io) - Javascript, React,HTML, CSS, Gatsby.JS 
+#### The Badass Coder Podcast, [Preview](https://thebadasscoder.us/) - Javascript, React,HTML, CSS, Gatsby.JS 
 
 The Badass Coder is a podcast series that highlights the stories of amazing women who is currently making their mark in tech. Now hosted on Apple and Spotify. 
 
@@ -39,11 +39,11 @@ The Badass Coder is a podcast series that highlights the stories of amazing wome
 * Collaborated with sponsors and tech leaders at KPMG to help organize program activities, guest speakers, field trips and on-site learning opportunities.
 * Successfully, all 20 students graduated from the Girls Who Code program.
 
-#### Full-Stack Web Developer, [C4Q(Coalition For Queens)](https://www.c4q.nyc/), July 2016- June 2017 
+#### Full-Stack Web Developer, [Pursuit Org](https://www.pursuit.org/), July 2016- June 2017 
 * Completed a 10-month intensive project-based Full-Stack Web Development program with only a 5% acceptance rate. 
 * Collaborated with leading developers, designers and project managers from Spotify, Tumblr, Google, LinkedIn, etc. 
 
-#### Intern, [C4Q(Coalition For Queens)](https://www.c4q.nyc/), January 2017- August 2017
+#### Intern, [Pursuit Org](https://www.pursuit.org/), January 2017- August 2017
 * Assisted the the Founder & CEO independently with the operations and procedures to ensure the continued growth of our tech non-profit organization.
 
 * Built and maintain the database in Excel to handle and organize the amount of applications that we received through our tracking system.
